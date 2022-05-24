@@ -1,1 +1,1 @@
-this is the first git commit by Rishav.
+It is git commit to arise merge conflict.
